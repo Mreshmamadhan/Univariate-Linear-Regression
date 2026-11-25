@@ -43,11 +43,12 @@ plt.show()
 
 ```
 ## Output
-</br>
-<img width="726" height="597" alt="Screenshot 2026-11-24 115619" src="https://github.com/user-attachments/assets/73e22c69-8798-4177-b538-6457e3b1e435" />
-</br>
-</br>
-<img width="717" height="517" alt="Screenshot 2026-11-24 115654" src="https://github.com/user-attachments/assets/0b02bba3-8c8c-4cfc-b952-912fab854977" />
+</br><img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/149d7f2d-52b6-4635-b142-c531b1e89f39" />
+
+</br><img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/ff987089-569f-4b53-889b-5decaf924ea8" />
+
+</br><img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/9bb225ac-9cf3-40ae-b85e-a8a9aab8c0aa" />
+
 </br>
 
 ## Result
